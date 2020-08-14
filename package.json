@@ -1,0 +1,17 @@
+{
+  "name": "@gradebook/curated-courses",
+  "version": "0.0.1",
+  "description": "A curated list of courses you can import into your Gradebook account",
+  "repository": "https://github.com/gradebook/curated-courses",
+  "author": "Vikas Potluri <vikaspotluri123.github@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "xo"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "xo": "0.32.1"
+  }
+}
