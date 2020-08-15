@@ -7,8 +7,10 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "build.sh",
-    "dev": "eleventy --serve --input src --output dist",
+    "build": "./release.sh",
+    "dev": "yarn html:build --serve",
+    "html:build": "eleventy --input src --output dist",
+    "js:build": "rollup -c",
     "js:dev": "rollup -c -w",
     "lint": "xo"
   },
