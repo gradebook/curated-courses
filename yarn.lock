@@ -136,10 +136,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@gradebook/course-serializer@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@gradebook/course-serializer/-/course-serializer-0.1.0.tgz#dcfad16272fde71c7948da5d18b87b57eec2740a"
-  integrity sha512-pH6dH1pvHJfqEu+THlgbAKheoXo/Xk7x/9U4yM02U1Cwd0weu2a/0iRnN17P5XpYu87W8BRgzisghS0rPsCw+g==
+"@gradebook/course-serializer@0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@gradebook/course-serializer/-/course-serializer-0.2.1.tgz#aa609980846b94d74791676b9a58f014c929db44"
+  integrity sha512-1vEHraStxa3ewgNTfgfwbIdw1pnkSFCuYW4Ih2pkYEXQw5ndwYE3XKWFe9RgGAukYipFVSX6fTdWHHIPlBI/3A==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
