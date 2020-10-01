@@ -146,10 +146,10 @@
     import-fresh "^3.2.1"
     strip-json-comments "^3.1.1"
 
-"@gradebook/course-serializer@0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@gradebook/course-serializer/-/course-serializer-0.2.1.tgz#aa609980846b94d74791676b9a58f014c929db44"
-  integrity sha512-1vEHraStxa3ewgNTfgfwbIdw1pnkSFCuYW4Ih2pkYEXQw5ndwYE3XKWFe9RgGAukYipFVSX6fTdWHHIPlBI/3A==
+"@gradebook/course-serializer@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@gradebook/course-serializer/-/course-serializer-0.2.2.tgz#0e8b6d3ee7b3d559a96e480e0f503aad79f8feab"
+  integrity sha512-PhngpwjY11fNTswUB1MqOMrtDKaTj8McfNVHy3Lum4wBgogzgfzm1QY/A7XeXA1xljhbMCiCqiwhGi7nszopTA==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
