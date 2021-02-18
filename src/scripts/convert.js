@@ -2,8 +2,8 @@
 
 import {deserialize} from '@gradebook/course-serializer';
 import jsqr from 'jsqr';
-import {imageDataFromFile} from './components/img-data-from-file';
-import {yamlize} from './components/yamlize';
+import {imageDataFromFile} from './components/img-data-from-file.js';
+import {yamlize} from './components/yamlize.js';
 
 const form = document.querySelector('#share-link-wrapper');
 const errorElement = form.querySelector('.error-message');
